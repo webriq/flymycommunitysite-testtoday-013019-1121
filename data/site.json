@@ -3,7 +3,7 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logofly.png",
+      "logo": "https://res.cloudinary.com/drjzrh756/image/upload/v1526462152/d4crnqcekiztfed763av.png",
       "logoname": "Fly My Community",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
@@ -13,14 +13,14 @@
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
+      "email": "me@dorelljames.com",
       "logo": "/img/logofly.png",
-      "linkcont": "032000333555",
-      "videoid": "255662356",
+      "linkcont": "44421421412412",
+      "videoid": "256685257",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
-      "slidertext1": "Discover the Beauty",
-      "slidertext2": "Crystal Parks",
+      "slidertext1": "Haha",
+      "slidertext2": "Me",
       "poplink": "//vimeo.com/250014579"
     }
   ],
